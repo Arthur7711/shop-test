@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-size: 16px;
+}
+body{
+  background: #ccc;
+}
+svg,
+button {
+  cursor: pointer;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
